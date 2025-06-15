@@ -6,9 +6,13 @@ This is my second Django project.<br>
 It is designed to organize all cinema processes
 
 ## Installing / Getting started
-```shell
-- Run `docker-compose up` command, and check with `docker ps`, that 2 services are up and running;
-- Go to `127.0.0.1:8000/api/` and check project endpoints via DRF interface;
+
+Python3.11 and Docker must be already installed
+```
+- run "git clone https://github.com/neagarr/cinema"
+- run "cd cinema/"
+- Run "docker-compose up" command, and check with "docker ps", that 2 services are up and running;
+- Go to "127.0.0.1:8000/api/" and check project endpoints via DRF interface;
 ```
 ## Features
 
