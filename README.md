@@ -11,7 +11,7 @@ Python3.11 and Docker must be already installed
 ```
 - run "git clone https://github.com/neagarr/cinema"
 - run "cd cinema/"
-- Run "docker-compose up" command, and check with "docker ps", that 2 services are up and running;
+- Run "sudo docker-compose up" command, and check with "docker ps", that 2 services are up and running;
 - Go to "127.0.0.1:8000/api/" and check project endpoints via DRF interface;
 ```
 ## Features
